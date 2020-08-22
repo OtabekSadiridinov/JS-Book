@@ -1,4 +1,4 @@
-## Variables and Types
+# Variables and Types
 Like almost every dynamic language, JavaScript is a "duck-typed" language, and therefore every variable is defined using the ``var`` keyword, and can contain all types of variables.
 
 We can define several types of variables to use in our code:
@@ -34,9 +34,9 @@ console.log(emptyVariable);
 ```
 will print out ``null``
 
-### Exercise
+## Exercise
 You must define the following variables:
 
-A number called myNumber which contains the number ``4``;
-A string called myString which contains the sentence ``Variables are great.``;
-A boolean called myBoolean which contains the value ``false``;
+1. A number called myNumber which contains the number ``4``;
+2. A string called myString which contains the sentence ``Variables are great.``;
+3. A boolean called myBoolean which contains the value ``false``;
