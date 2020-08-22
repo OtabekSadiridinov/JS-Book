@@ -4,8 +4,8 @@
 Table Of Contents
 ---
 
-- [Hello World!]
-- [Variables]
+- [Hello World!](https://otabeksadiridinov.github.io/JS-Book/hello-world)
+- [Variables](https://otabeksadiridinov.github.io/JS-Book/variables)
 
 
 
