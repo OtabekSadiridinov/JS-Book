@@ -1,6 +1,6 @@
 Hello world
 
-Yes, in the first time of learning any language, firstly we create a small app. And most of the time it is some words or pictures.
+Yes, in the first time of learning any programming language, firstly we create a small app. And most of the time it is some words or pictures.
 Generally, the most of the people print **"Hello World!"** as an output. Often, we create some apps and use "Hello World!" output for testing purposes of web, mobile or desktop apps. So, we are used to do so. But we can print any other things, too :smile:.
 
 Let's today we'll print **Hello World!** in Javascript.
