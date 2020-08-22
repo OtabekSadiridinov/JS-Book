@@ -1,6 +1,3 @@
-## Welcome to JS-Book
-### An online documentation of JS by Otabek Sadiridinov
-
 Table Of Contents
 ---
 
