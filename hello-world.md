@@ -12,3 +12,5 @@ console.log('Hello World!')
 ```
 
 And it is done. We did it.
+
+#### Next lesson: [Hello World!](https://otabeksadiridinov.github.io/JS-Book/variables)
