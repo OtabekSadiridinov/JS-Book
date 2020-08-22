@@ -16,4 +16,4 @@ Table Of Contents
 - [Object Oriented JavaScript](https://otabeksadiridinov.github.io/JS-Book/object-oriented-javascript)
 - [Function Context](https://otabeksadiridinov.github.io/JS-Book/function-context)
 - [Inheritance](https://otabeksadiridinov.github.io/JS-Book/inheritance)
-- [Contributing](https://otabeksadiridinov.github.io/JS-Book/contributing.md)
+- [Contributing](https://otabeksadiridinov.github.io/JS-Book/contributing)
