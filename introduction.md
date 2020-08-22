@@ -8,4 +8,4 @@ You can use javascript for making pages animated, transitional, dynamic and for 
 
 Know you know what is Javascript is and why it is used. 
 
-### Next lesson: [Hello World!](https://otabeksadiridinov.github.io/JS-Book/hello-world)
+#### Next lesson: [Hello World!](https://otabeksadiridinov.github.io/JS-Book/hello-world)
