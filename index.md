@@ -1,6 +1,7 @@
 Table Of Contents
 ---
 
+- [Introduction](https://otabeksadiridinov.github.io/JS-Book/introduction)
 - [Hello World!](https://otabeksadiridinov.github.io/JS-Book/hello-world)
 - [Variables](https://otabeksadiridinov.github.io/JS-Book/variables)
 
