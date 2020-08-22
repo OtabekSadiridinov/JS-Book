@@ -7,3 +7,5 @@ Javascript is dynamic frontend and server-side programming language which allows
 You can use javascript for making pages animated, transitional, dynamic and for mathematic calculations. You can use Javascript for server side scripting. And, These day it is used with some tools to create desktop, web and mobile apps, too. **Javascript is created by Brendan Eich who is Netscape Communications Corporation programmer in 1995.** It took Eich only 10 days to develop the scripting language, then known as Mocha 🤪.
 
 Know you know what is Javascript is and why it is used. 
+
+### Next lesson: [Hello World!](https://otabeksadiridinov.github.io/JS-Book/hello-world)
